@@ -1,0 +1,21 @@
+ID = single unique selector
+    #some-id{}
+Class = multiple selector 
+    .some-class{}
+Element selector = name of element only (no prefix)
+    div{}
+Wild Card Element Selector = every element 
+    * 
+
+
+
+*{} = Wild Card Selector (every element)
+#some-id{} = ID (single uinique selector)
+.some-class{} = Class (multiple selector)
+div, li, p, h1, h2, h3, h4, h5, h6, hr, head, body {} = HTML element selector
+
+
+(4) element
+(3) class 
+(2) attribute
+(1) id 
